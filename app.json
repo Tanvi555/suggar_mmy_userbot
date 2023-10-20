@@ -1,5 +1,5 @@
 {
-  "name": "SUGARMMYUserBot",
+  "name": "Sugar Mmy UserBot",
   "description": "One of the best Userbot for Telegram. Known for its Smoothness, Design, Support.",
   "logo": "https://telegra.ph/file/ee5b8336bd945a086eff8.jpg",
   "keywords": [
@@ -7,7 +7,7 @@
     "userbot",
     "plugin",
     "telethon",
-    "warbot",
+    "sugarbot",
     "modular",
     "productivity"
   ],
