@@ -1,7 +1,7 @@
-<h1 align="center">❤️ 🅆🄰🅁🅄🅂🄴🅁🄱🄾🅃 ❤️</h1>
+<h1 align="center">🤍 𝗦𝗨𝗚𝗔𝗥 𝗠𝗠𝗬 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 🤍</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/7b3fe6a6a6945ab4d41da.jpg">
+  <img src="https://telegra.ph/file/e26cecf3eeaa6abb01bde.jpg">
 </p>
 
   <h2 align= "center" >The owner would not be responsible for any kind of bans due to the bot.</h2>
@@ -15,7 +15,7 @@
 
 <h3>  STRING SESSION  </h3>
   
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://generatestringsession.xabhish3k.repl.run) ``Telethon``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://t.me/string_gen_father_bot) ``Telethon``
 
 
 - Click On Generate String
@@ -30,7 +30,7 @@
 
 <h3> DEPLOY TO RENDER </h3>
 
-[![Deploy](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/MeAbhish3k/waruserbot)
+[![Deploy](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Tanvi555/suggar_mmy_userbot)
 
 ## SAFETY GUIDE LINES
 ```
@@ -41,8 +41,8 @@
 
 ### Official Supports
 
-   <a href="https://t.me/waruserbot"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://t.me/waruserbotsupport"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/suggar_support_group"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/suggar_support_group"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
 
 
 
