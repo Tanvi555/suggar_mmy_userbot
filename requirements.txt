@@ -34,6 +34,8 @@ pySmartDL
 python-barcode
 pytz
 qrcode
+ShazamAPI
+yt_dlp
 regex
 requests
 search-engine-parser
@@ -46,6 +48,7 @@ tgcrypto
 validators
 vcam
 
-git+https://github.com/xAbhish3k/py-googletrans@master
-git+https://github.com/xAbhish3k/Wikipedia@master
-git+https://github.com/xAbhish3k/yt-search-python@master
+git+https://github.com/sandy1709/py-googletrans
+git+https://github.com/goldsmith/Wikipedia
+git+https://github.com/sandy1709/Telethon@beta
+git+https://github.com/alexmercerind/youtube-search-python
