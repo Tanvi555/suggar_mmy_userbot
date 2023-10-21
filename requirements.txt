@@ -46,6 +46,6 @@ tgcrypto
 validators
 vcam
 
-git+https://github.com/Tanvi555/py-googletrans@master
-git+https://github.com/Tanvir555/Wikipedia@master
-git+https://github.com/Tanvir555/yt-search-python@master
+git+https://github.com/xAbhish3k/py-googletrans@master
+git+https://github.com/xAbhish3k/Wikipedia@master
+git+https://github.com/xAbhish3k/yt-search-python@master
